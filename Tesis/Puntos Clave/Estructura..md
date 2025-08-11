@@ -1,0 +1,8 @@
+- Introducción.
+	- Contexto.
+	- Problema.
+	- Hipótesis.
+	- Objetivo.
+- Marco teórico.
+- Cuerpo.
+- Conclusión.
