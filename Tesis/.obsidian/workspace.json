@@ -11,14 +11,12 @@
             "id": "4fcb5ec318a16e51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Ciclo de desarrollo de software/Ciclo de desarrollo del desarrollo de software (SDCL)..md",
-                "mode": "source",
-                "source": false
+                "file": "DiagramaCasoUsoGeneral.png"
               },
-              "icon": "lucide-file",
-              "title": "Ciclo de desarrollo del desarrollo de software (SDCL)."
+              "icon": "lucide-image",
+              "title": "DiagramaCasoUsoGeneral"
             }
           }
         ]
@@ -170,12 +168,15 @@
   },
   "active": "4fcb5ec318a16e51",
   "lastOpenFiles": [
-    "Ciclo de desarrollo de software/Requisitos..md",
-    "Introducción/Hipótesis.md",
+    "Diagramas.mdj",
     "Introducción/Objetivo.md",
+    "DiagramaCasoUsoGeneral.png",
+    "Introducción/Hipótesis.md",
+    "Ciclo de desarrollo de software/Requisitos funcionales y no funcionales..md",
+    "Ciclo de desarrollo de software/Ciclo de desarrollo del desarrollo de software (SDCL)..md",
+    "Ciclo de desarrollo de software/Requisitos..md",
     "Puntos Clave/Estructura..md",
     "Puntos Clave/Palabras y conceptos clave..md",
-    "Ciclo de desarrollo de software/Ciclo de desarrollo del desarrollo de software (SDCL)..md",
     "Pasted image 20250808180250.png",
     "Ciclo de desarrollo de software/Diagramas de metodologias/algo.md",
     "Pasted image 20250808180350.png",

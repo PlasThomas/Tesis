@@ -19,7 +19,7 @@ Existen múltiples implementaciones de SDCL(Software Delelopment Lifecycle) cada
 
 Existen dos categorías principales para las metodologías de desarrollo de software, estas son las metodologías ágiles y las metodologías tradicionales cuya principal diferencia, es el enfoque y flexibilidad, en las metodologías ágiles se basan en una ejecución iterativas con entregas incrementales, adaptación continua y la comunicación constante con las partes involucradas, mientras que en las metodologías tradicionales en se basan en una ejecución lineal y secuencial con una planeación exhaustiva.
 
-Unos ejemplos de ambos tipos de metodologías.
+Un ejemplo de metodología ágil sería la metodología SCRUM la cual se basa en iteraciones y s
 
 | Agiles             | Tradicionales |
 | ------------------ | ------------- |
